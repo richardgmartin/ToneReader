@@ -1,0 +1,6 @@
+framework module Pods_ToneReader_WatchKit_Extension {
+  umbrella header "Pods-ToneReader WatchKit Extension-umbrella.h"
+
+  export *
+  module * { export * }
+}
